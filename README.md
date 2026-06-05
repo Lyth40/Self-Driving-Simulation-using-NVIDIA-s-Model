@@ -3,7 +3,7 @@
 A comprehensive Python project for training and testing autonomous vehicle simulations using deep learning and computer vision.
 
 
-![Photo](https://github.com/Lyth40/Self-Driving-Simulation-using-NVIDIA-s-Model/Model.png)
+![Photo](https://github.com/Lyth40/Self-Driving-Simulation-using-NVIDIA-s-Model/blob/main/Model.png)
 
 ## 📋 Overview
 
